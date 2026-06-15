@@ -112,8 +112,7 @@ The workflow runs on every push to `main` and:
 
 ## 🎬 Demo Video
 
-> [Click here to watch the demo video](#)
-> *https://youtu.be/t3c5Kq3hz00?si=NGzXwU7VMU0BcCiG*
+> [Click here to watch the demo video](https://youtu.be/t3c5Kq3hz00?si=NGzXwU7VMU0BcCiG)
 
 The demo video shows:
 1. User registration and login
