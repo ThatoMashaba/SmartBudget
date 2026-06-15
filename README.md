@@ -7,6 +7,16 @@ and visualise their spending habits through charts and reports.
 
 ---
 
+
+---
+
+## 📄 Part 1 Documents
+
+The following documents were submitted as part of the research and design phase:
+
+- [📋 Planning and Design Document](PLANNING_AND_DESIGN.pdf)
+- [🔍 Research Document](RESEARCH_.pdf)
+
 ## 👨‍💻 Group Members
 
 | Name | Student Number |
@@ -103,7 +113,7 @@ The workflow runs on every push to `main` and:
 ## 🎬 Demo Video
 
 > [Click here to watch the demo video](#)
-> *(Link will be updated once video is recorded and uploaded)*
+> *https://youtu.be/t3c5Kq3hz00?si=NGzXwU7VMU0BcCiG*
 
 The demo video shows:
 1. User registration and login
